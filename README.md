@@ -1,6 +1,6 @@
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
 <h1 align="center">Hi 👋, I'm Palak Patel</h1>
-<h3 align="center">A Passionate Full Stack Developer!!</h3>
+<h3 align="center">A Passionate Computer Science Grad!!</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.create.vista.com/api/media/small/522718272/stock-vector-software-development-programming-code-computer-vector-illustration-technology-engineer-team">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakpatel01&label=Profile%20views&color=0e75b6&style=flat" alt="palakpatel01" /> </p>
