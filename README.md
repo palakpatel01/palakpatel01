@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakpatel01&label=Profile%20views&color=0e75b6&style=flat" alt="palakpatel01" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Gen AI**
 
 - 📫 How to reach me **palakpatel.1027@gmail.com**
 
